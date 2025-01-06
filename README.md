@@ -1,0 +1,1 @@
+This repository demonstrates a simple yet uncommon MATLAB error related to input validation. The `bug.m` file contains a function that throws an error when the input is negative. The `bugSolution.m` file provides a solution by improving error handling and providing a more user-friendly output.
